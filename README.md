@@ -38,15 +38,15 @@ Steps:
 3. Insights Generations as asked.
 
 Tech Stuff:
-Pandas & its functions: shape,describe(),value_counts(), groupby(),merge(),sort_values(),info()
+Pandas & its functions: shape,describe(),value_counts(), groupby(),merge(),sort_values(),info()<br>
 
-Snippets of Analysis
+Snippets of Analysis<br>
 <img width="532" alt="image" src="https://github.com/DMSinha/Python_Hospitality-Data-Analysis/assets/101706831/aaecd8c9-cad0-4827-a74d-be6e781abfe0">
 
-Revenue Realized Per Property
+Revenue Realized Per Property<br>
 <img width="425" alt="image" src="https://github.com/DMSinha/Python_Hospitality-Data-Analysis/assets/101706831/87238955-7fde-4a8f-9efb-4517ea465cf8">
 
-Occupancy % of Different Cities
+Occupancy % of Different Cities<br>
 <img width="431" alt="image" src="https://github.com/DMSinha/Python_Hospitality-Data-Analysis/assets/101706831/3448adbe-1974-4b17-836b-7d07e0d6327d">
 
 
